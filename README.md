@@ -1,1 +1,1 @@
-# -CNN---Fashion-dataset-
+# CNN-Fashion-dataset
