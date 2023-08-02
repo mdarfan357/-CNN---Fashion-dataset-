@@ -3,6 +3,8 @@ This repository contains the code for my Kaggle competition entry, in which I pl
 
 I hope this code is useful to others who are interested in improving the accuracy of CNN classifiers on misclassified images.
 
-[Link to kaggle competition](https://www.kaggle.com/code/arfanmd/cnn-fashion-dataset)
+[Link to kaggle notebook](https://www.kaggle.com/code/arfanmd/cnn-fashion-dataset)
+
+[Link to kaggle competition](https://www.kaggle.com/competitions/extracting-attributes-from-fashion-images-2)
 
 ![image](https://github.com/mdarfan357/CNN-Fashion-dataset/assets/77487906/c5f25261-bd9d-4c1f-9aed-b649d4becff9)
